@@ -34,10 +34,6 @@ Visible / thermal-infrared matching.
 
 [Open LLVIP VIS-TIR animation](SO2-SpikeMatch_LLVIP_VIS-TIR.gif)
 
-### Visualization protocol
-
-These are selected qualitative examples from saved model predictions. Displayed lines have valid ground-truth correspondences and forward reprojection error strictly below **3 pixels**. Frames with fewer than **20** such correspondences were omitted: the WHU animation retains 154 of 192 frames, and the LLVIP animation retains 187 of 192 frames. The retained frames keep their original playback timing, so transformations may jump between frames. These animations illustrate selected matching behavior.
-
 ## 项目简介
 
 SO2-SpikeMatch面向存在旋转变化的红外可见光图像匹配，将向量幅度的脉冲编码与连续方向分离，使编码后的方向特征仍可用于解析对齐；结合局部描述子与预测对应的几何关系构建多方向候选，并以定位质量监督候选加权和有界坐标细化。上方分别展示WHU VIS-NIR与LLVIP VIS-TIR上的筛选案例，可见光固定、红外图像旋转与缩放。
