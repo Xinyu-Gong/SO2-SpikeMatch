@@ -24,7 +24,7 @@ The animations below are lightweight previews with the same frames and playback 
 
 Visible / near-infrared matching.
 
-![SO2-SpikeMatch on WHU VIS-NIR: fixed visible image and transformed near-infrared image](WHU_preview.gif)
+![SO2-SpikeMatch on WHU VIS-NIR: fixed visible image and transformed near-infrared image](https://raw.githubusercontent.com/Xinyu-Gong/SO2-SpikeMatch/main/WHU_preview.gif)
 
 [View full-resolution WHU VIS-NIR GIF](SO2-SpikeMatch_WHU_VIS-NIR.gif)
 
@@ -32,7 +32,7 @@ Visible / near-infrared matching.
 
 Visible / thermal-infrared matching.
 
-![SO2-SpikeMatch on LLVIP VIS-TIR: fixed visible image and transformed thermal-infrared image](LLVIP_preview.gif)
+![SO2-SpikeMatch on LLVIP VIS-TIR: fixed visible image and transformed thermal-infrared image](https://raw.githubusercontent.com/Xinyu-Gong/SO2-SpikeMatch/main/LLVIP_preview.gif)
 
 [View full-resolution LLVIP VIS-TIR GIF](SO2-SpikeMatch_LLVIP_VIS-TIR.gif)
 
