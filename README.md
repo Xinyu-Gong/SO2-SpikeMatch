@@ -18,21 +18,23 @@ The method uses a hybrid spiking representation with real-valued directional and
 
 The visible image stays fixed on the left; the infrared image on the right undergoes rotation, rescaling, and their combination. Fluorescent green lines display retained correspondences.
 
+The animations below are lightweight previews with the same frames and playback timing as the full-resolution GIFs linked underneath.
+
 ### WHU VIS-NIR
 
 Visible / near-infrared matching.
 
-![SO2-SpikeMatch on WHU VIS-NIR: fixed visible image and transformed near-infrared image](SO2-SpikeMatch_WHU_VIS-NIR.gif)
+![SO2-SpikeMatch on WHU VIS-NIR: fixed visible image and transformed near-infrared image](WHU_preview.gif)
 
-[Open WHU VIS-NIR animation](SO2-SpikeMatch_WHU_VIS-NIR.gif)
+[View full-resolution WHU VIS-NIR GIF](SO2-SpikeMatch_WHU_VIS-NIR.gif)
 
 ### LLVIP VIS-TIR
 
 Visible / thermal-infrared matching.
 
-![SO2-SpikeMatch on LLVIP VIS-TIR: fixed visible image and transformed thermal-infrared image](SO2-SpikeMatch_LLVIP_VIS-TIR.gif)
+![SO2-SpikeMatch on LLVIP VIS-TIR: fixed visible image and transformed thermal-infrared image](LLVIP_preview.gif)
 
-[Open LLVIP VIS-TIR animation](SO2-SpikeMatch_LLVIP_VIS-TIR.gif)
+[View full-resolution LLVIP VIS-TIR GIF](SO2-SpikeMatch_LLVIP_VIS-TIR.gif)
 
 ## 项目简介
 
